@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/github-header-image%20(1).png)
+[![MasterHead](https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/github-header-image%20(1).png)]
 <h1 align="center">Hi 👋, I'm Yuvaraj Morla</h1>
 <h3 align="center">Pursuing a career in Computer Science, passionate about MERN Full Stack, AI & ML, and AWS Cloud. Indian Undergrad at VIT-AP.</h3>
 <img align="right" alt="Coding" width="270" src="https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/2ec2df78de4bf2c475adac2ce70dad60.gif">
