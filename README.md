@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Yuvaraj Morla</h1>
 <h3 align="center">Pursuing a career in Computer Science, passionate about MERN Full Stack, AI & ML, and AWS Cloud. Indian Undergrad at VIT-AP.</h3>
-<img align="right" alt="Coding" width="350" src="https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/output-onlinegiftools.gif">
+<img align="right" alt="Coding" width="333" src="https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/output-onlinegiftools.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvarajmorla&label=Profile%20views&color=0e75b6&style=flat" alt="yuvarajmorla" /> </p>
