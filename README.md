@@ -1,8 +1,7 @@
 ![MasterHead](https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/github-header-image%20(1).png)
+<h1></h1>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=500&size=40&pause=2811&color=F73914&center=true&vCenter=true&random=false&width=1000&height=100&lines=__Hi+%F0%9F%91%8B%2C+I'm+Yuvaraj+Morla__)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=500&size=40&pause=2811&color=F73914&center=true&vCenter=true&random=false&width=1000&height=70&lines=__Hi+%F0%9F%91%8B%2C+I'm+Yuvaraj+Morla__)](https://git.io/typing-svg) 
 <h1></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=FFC300&multiline=true&random=false&width=2050&height=80&lines=Pursuing+a+career+in+Computer+Science%2C+passionate+about+MERN+Full+Stack%2C+AI+%26+ML%2C+and+AWS+Cloud.+Indian+Undergrad+at+VIT-AP.)](https://git.io/typing-svg)
