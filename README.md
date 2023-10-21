@@ -1,20 +1,23 @@
-![MasterHead](https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/github-header-image%20(1).png)
+<a href="#"><img src="https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/github-header-image%20(1).png" alt="MasterHead" /></a>
+
 <h2></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=500&size=40&pause=2811&color=1aa4b8&center=true&vCenter=true&random=false&width=1000&height=50&lines=__Hi+%F0%9F%91%8B%2C+I'm+Yuvaraj+Morla__)](https://git.io/typing-svg)
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=500&size=40&pause=2811&color=1aa4b8&center=true&vCenter=true&random=false&width=1000&height=50&lines=__Hi+%F0%9F%91%8B%2C+I'm+Yuvaraj+Morla__" alt="Yuvaraj Morla" /></a>
 
 <h4></h4>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=FFC311&multiline=true&random=false&width=2050&height=61&lines=Pursuing+a+career+in+Computer+Science%2C+passionate+about+MERN+Full+Stack%2C+AI+%26+ML%2C+and+AWS+Cloud.+Indian+Undergrad+at+VIT-AP.)](https://git.io/typing-svg)
+<a href="#">![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=FFC311&multiline=true&random=false&width=2050&height=61&lines=Pursuing+a+career+in+Computer+Science%2C+passionate+about+MERN+Full+Stack%2C+AI+%26+ML%2C+and+AWS+Cloud.+Indian+Undergrad+at+VIT-AP.)</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=FFC300&multiline=true&random=false&width=2050&height=61&lines=Indian+Undergrad+at+VIT-AP.)](https://git.io/typing-svg)
+<a href="#">![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=b100cd&multiline=true&random=false&width=2050&height=61&lines=Indian+Undergrad+at+VIT-AP.)</a>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/output-onlinegiftools.gif">
+<a href="#"><img align="right" alt="Coding" width="300" src="https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/output-onlinegiftools.gif" /></a>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvarajmorla&label=Profile%20views&color=0e75b6&style=flat" alt="yuvarajmorla" /> </p>
+<p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=yuvarajmorla&label=Profile%20views&color=d6008f&style=flat" alt="yuvarajmorla" /> </a></p>
 
 <p align="left"> <a href="https://twitter.com/yuvarajmorla_in" target="blank"><img src="https://img.shields.io/twitter/follow/yuvarajmorla_in?logo=twitter&style=for-the-badge" alt="yuvarajmorla_in" /></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/yuvaraj-morla-14my" target="blank"><img src="https://img.shields.io/badge/Connect%20with-Yuvaraj%20Morla-green?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" /></a> </p>
+
 
 - 🔭 I’m currently working on [MERN and AWS](https://github.com/YUVARAJMORLA/ReactTasks)
 
@@ -119,9 +122,13 @@
   
 </p>
 
+<a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvarajmorla&show_icons=true&locale=en&layout=compact" alt="yuvarajmorla" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvarajmorla&show_icons=true&locale=en&layout=compact" alt="yuvarajmorla" /></p>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yuvarajmorla&show_icons=true&locale=en" alt="GitHub Stats" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvarajmorla&show_icons=true&locale=en" alt="yuvarajmorla" /></p>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajmorla" alt="GitHub Streak" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajmorla&" alt="yuvarajmorla" /></p>
+
+
+
+
