@@ -1,4 +1,16 @@
-<a href="#"><img src="https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/github-header-image%20(1).png" alt="MasterHead" /></a>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div style="text-align: center;">
+        <a href="#">
+            <img src="https://github.com/YUVARAJMORLA/imagesforprofile/raw/main/github-header-image%20(1).png" alt="MasterHead" style="max-width: 100%; height: auto; pointer-events: none;">
+        </a>
+    </div>
+</body>
+</html>
+
 
 <h2></h2>
 
