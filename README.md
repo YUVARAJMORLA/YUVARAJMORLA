@@ -22,7 +22,7 @@
 
 <a href="#">![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=b100cd&multiline=true&random=false&width=2050&height=61&lines=Indian+Undergrad+at+VIT-AP.)</a>
 
-<a href="#"><img align="right" alt="Coding" width="300" src="https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/output-onlinegiftools.gif" /></a>
+<a href="#"><img align="right" alt="Coding" width="280" src="https://github.com/YUVARAJMORLA/imagesforprofile/blob/main/output-onlinegiftools.gif" /></a>
 
 <p align="left"> <a href="#"><img src="https://komarev.com/ghpvc/?username=yuvarajmorla&label=Profile%20views&color=d6008f&style=flat" alt="yuvarajmorla" /> </a></p>
 
@@ -35,18 +35,18 @@
 
 - 🌱 I’m currently learning **MERN , Machine Learning, AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YUVARAJMORLA](https://github.com/YUVARAJMORLA)
+- 👨‍💻 All of my projects are available at  [https://github.com/YUVARAJMORLA](https://github.com/YUVARAJMORLA)
 
-- 💬 Ask me about **MERN, Python, AI**
+- 💬 Ask me about  **MERN, Python, AI**
 
-- 📫 How to reach me **yuvarajmorla14@gmail.com**
+- 📫 How to reach me: **yuvarajmorla14@gmail.com**
 
-- ⚡ Fun fact **Beneath my serious exterior lies a playful spirit.**
+- ⚡ Fun fact: **Beneath my serious exterior lies a playful spirit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@YuvarajMorla_IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvarajmorla_in" height="30" width="40" /></a>
-<a href="linkedin.com/in/yuvaraj-morla-14my" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvaraj morla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yuvaraj-morla-14my/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvaraj morla" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/yuvarajmorla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yuvaraj morla" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@yuvarajmorla14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yuvarajmorla14" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yuvaraj14m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yuvaraj14m" height="30" width="40" /></a>
