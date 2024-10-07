@@ -18,7 +18,7 @@
 
 <h4></h4>
 
-<a href="#">![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=FFC311&multiline=true&random=false&width=2050&height=61&lines=Pursuing+a+career+in+Computer+Science%2C+passionate+about+MERN+Full+Stack%2C+AI+%26+ML%2C+and+AWS+Cloud.+Indian+Undergrad+at+VIT-AP.)</a>
+<a href="#">![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=FFC311&multiline=true&random=false&width=2050&height=61&lines=Pursuing+a+career+in+Computer+Science%2C+passionate+about+AI+%26+ML%2C+and+AWS+Cloud.+Indian+Undergrad+at+VIT-AP.)</a>
 
 <a href="#">![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=b100cd&multiline=true&random=false&width=2050&height=61&lines=Indian+Undergrad+at+VIT-AP.)</a>
 
@@ -31,13 +31,13 @@
 <p align="left"> <a href="https://www.linkedin.com/in/yuvaraj-morla-14my" target="blank"><img src="https://img.shields.io/badge/Connect%20with-Yuvaraj%20Morla-green?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" /></a> </p>
 
 
-- 🔭 I’m currently working on [MERN and AWS](https://github.com/YUVARAJMORLA/ReactTasks)
+- 🔭 I’m currently working on [AI and AWS](https://github.com/YUVARAJMORLA/ReactTasks)
 
-- 🌱 I’m currently learning **MERN , Machine Learning, AWS Cloud**
+- 🌱 I’m currently learning **Machine Learning, AWS Cloud**
 
 - 👨‍💻 All of my projects are available at  [https://github.com/YUVARAJMORLA](https://github.com/YUVARAJMORLA)
 
-- 💬 Ask me about  **MERN, Python, AI**
+- 💬 Ask me about  **Python, AI**
 
 - 📫 How to reach me: **yuvarajmorla14@gmail.com**
 
@@ -71,17 +71,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -96,10 +85,6 @@
 
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 
   <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" rel="noreferrer">
