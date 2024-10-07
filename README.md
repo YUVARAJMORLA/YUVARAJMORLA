@@ -18,7 +18,7 @@
 
 <h4></h4>
 
-<a href="#">![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=FFC311&multiline=true&random=false&width=2050&height=61&lines=Pursuing+a+career+in+Computer+Science%2C+passionate+about+AI+%26+ML%2C+and+AWS+Cloud.+Indian+Undergrad+at+VIT-AP.)</a>
+<a href="#">![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=FFC311&multiline=true&random=false&width=2050&height=61&lines=Pursuing+a+career+in+Computer+Science%2C+passionate+about+AI+%26+ML%2C+and+AWS+Cloud.)</a>
 
 <a href="#">![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif&size=43&pause=2600&color=b100cd&multiline=true&random=false&width=2050&height=61&lines=Indian+Undergrad+at+VIT-AP.)</a>
 
